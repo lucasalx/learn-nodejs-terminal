@@ -1,0 +1,31 @@
+{
+  "name": "locator",
+  "version": "1.0.0",
+  "description": "Finds the country of origin of the incoming request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasalx/locator.git"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "lucasalx \\lucasaleixofirmino@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lucasalx/locator/issues"
+  },
+  "homepage": "https://github.com/lucasalx/locator#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  }
+}
